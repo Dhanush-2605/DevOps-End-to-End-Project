@@ -65,7 +65,7 @@ workflows.
 2.  GitHub Actions builds → scans → pushes image → updates Helm chart\
 3.  Argo CD deploys latest version to Kubernetes
 
-< img width="1909" height="695" alt="Screenshot 2025-11-06 124954" src="https://github.com/user-attachments/assets/bf61fd77-4f21-44b3-a322-9ed9b32eb8f2" />
+<img width="1909" height="695" alt="Screenshot 2025-11-06 124954" src="https://github.com/user-attachments/assets/bf61fd77-4f21-44b3-a322-9ed9b32eb8f2" />
 
 
 
